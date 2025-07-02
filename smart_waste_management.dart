@@ -10,7 +10,7 @@ class SmartWasteManagement {
   late Interpreter interpreter;
   final Function(String) onClassification;
   final Function(String) onGeminiResponse;
-  final String geminiApiKey = 'AIzaSyC_OTX3ADk_mpKiNYxSmx-g09ds1hz_QoE';
+  final String geminiApiKey = 'xxxx';
 
   SmartWasteManagement({required this.onClassification, required this.onGeminiResponse});
 
