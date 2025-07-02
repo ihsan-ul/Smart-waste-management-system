@@ -14,7 +14,7 @@ class _GeminiAssistantScreenState extends State<GeminiAssistantScreen> {
   String _geminiResponse = "";
   bool _isGeminiLoading = false;
   String _userLocation = "your location";
-  final String geminiApiKey = 'AIzaSyC_OTX3ADk_mpKiNYxSmx-g09ds1hz_QoE';
+  final String geminiApiKey = 'xxxx';
 
   @override
   void initState() {
